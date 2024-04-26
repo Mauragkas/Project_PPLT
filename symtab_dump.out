@@ -1,0 +1,8 @@
+------------ ------ ------------
+Name         Type   Line Numbers
+------------ ------ -------------
+A            undef     1    9    9 
+B            undef     1 
+a            undef     2    9   10   10   11 
+b            undef     4 
+foo          undef     4   11 
