@@ -45,7 +45,7 @@ variable: ID |
 
 pointer: pointer MULOP | MULOP ;
 
-array: array LBRACK ICONST RBRACK | LBRACK ICONST RBRACK ;
+array: array RBRACK ICONST LBRACK | RBRACK ICONST LBRACK ;
 
 statements: statements statement | statement;
 

@@ -1,0 +1,6 @@
+out.print("Hello World");
+out.print(123);
+out.print(3.14d);
+out.print('a');
+out.print("Hello World", 123, 3.14d, 'a');
+out.print(3.14dd);
